@@ -1,0 +1,17 @@
+{
+  "name": "tangle-shell",
+  "version": "0.0.0",
+  "description": "An interactive shell for Tangle",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "shell": "^0.3.2",
+    "tangle-config": "^0.1.1",
+    "winston": "^0.7.3",
+    "lodash": "^2.4.1"
+  }
+}
